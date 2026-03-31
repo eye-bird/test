@@ -1,2 +1,1 @@
-bbbbbaa
-ブラウザ
+# blank
